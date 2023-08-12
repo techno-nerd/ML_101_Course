@@ -42,3 +42,38 @@ Quote:
 > "Violence is the only universal language
 >
 >*\- A Military General*
+
+Lists (* can also be used)
+- F-14 Tomcat
+- F-16 Fighting Falcon
+- F-22 Raptor
+    - Can climb vertically
+        - Almost 1:1 thrust to weight
+
+Ordered lists:
+
+1. Refine Uranium
+2. Make a core and fill with explosives
+3. Detonate explosives
+
+Tables:
+
+|Jet|Purpose|
+|---|---|
+|A-10 Warthog|Close air support|
+|F-22 Raptor|Dog fighting|
+
+~~Strikethrough~~
+
+--- 
+Horizontal line seperator
+
+Superscripting and subscripting:
+
+GPA<sup>2</sup>
+
+W<sub>1</sub> and W<sub>2</sub> are the weights
+
+LaTeX in Markdown:
+
+$a = \pi r^{2}$

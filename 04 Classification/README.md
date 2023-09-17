@@ -7,3 +7,5 @@ Other models for classification include:
 - Support Vector Machines (SVMs)
 
 Instead of Root Mean Squared Error, classification models are usually measured on metrics like accuracy, precision and recall.
+
+The YouTube video for this lesson: https://youtu.be/O4sExG-hUxA

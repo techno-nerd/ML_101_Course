@@ -95,7 +95,7 @@ If you are using Visual Studio Code:
 
 ## Course Structure
 
-- Each Lesson consists of a YouTube video explaining the theory and code examples.
+- Each Lesson consists of a YouTube video explaining the theory and code examples in this repository.
 - Some lessons will have problems for you to try after the lesson, described in problem.md. 
 
 ## Resources

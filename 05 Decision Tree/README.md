@@ -4,4 +4,4 @@ In this lesson, we will look at Decision Trees, Random Forests and KNN Classifie
 
 A Decision Tree uses a tree-like structure to make decisions by splitting data into subsets based on feature conditions, ultimately assigning class labels to data points.
 
-The YouTube video for this lesson: 
+The YouTube video for this lesson: https://www.youtube.com/watch?v=TPh7YvQQzaY

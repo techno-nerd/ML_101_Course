@@ -16,6 +16,12 @@ https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-da
 Wine Dataset:
 https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
+IMBD Sentiment Dataset:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Spam Detection Dataset:
+https://www.kaggle.com/datasets/karthickveerakumar/spam-filter/code
+
 Glass Dataset:
 https://www.kaggle.com/datasets/uciml/glass
 

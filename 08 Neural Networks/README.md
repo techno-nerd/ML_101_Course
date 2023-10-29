@@ -7,4 +7,4 @@ Here is a visualisation of a simple neural network.
 We will use these models for the same problems as last week: Sentiment analysis and spam filteration
 
 
-The YouTube video for this lesson: https://youtu.be/fs7fvFeGhj8
+The YouTube video for this lesson: https://www.youtube.com/watch?v=6UyIZM48gZY

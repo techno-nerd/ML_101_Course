@@ -27,3 +27,6 @@ https://www.kaggle.com/datasets/uciml/glass
 
 MNIST Dataset:
 https://www.tensorflow.org/datasets/catalog/mnist
+
+Fashion MNIST Dataset:
+https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data

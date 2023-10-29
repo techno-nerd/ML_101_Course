@@ -6,4 +6,4 @@ However, in this lesson, we will learn about their limitations in terms of effic
 
 Instead, we use Convolutional Neural Networks (CNNs), which are much faster and better at solving these kinds of problems. To learn more about how they work, please watch the video for this lesson.
 
-The YouTube video for this lesson: 
+The YouTube video for this lesson: https://youtu.be/DbClQQZujxA

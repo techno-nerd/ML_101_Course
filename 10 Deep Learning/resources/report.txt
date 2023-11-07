@@ -1,0 +1,40 @@
+Title: Investigating the Effect of Wire Length on Electrical Resistance
+
+Introduction:
+The purpose of this investigation is to examine the relationship between the length of a wire and its electrical resistance. Understanding the properties of electrical resistance is important in order to have better control over electric currents and their applications. This investigation will provide insights into the factors that affect electrical resistance and determine whether the wire exhibits ohmic behavior.
+
+Problem:
+How does the length of a wire affect its electrical resistance?
+
+Hypothesis:
+I hypothesize that as the length of the wire increases, the electrical resistance will also increase. This is because a longer wire will offer more obstacles for the electrons to flow through, resulting in increased resistance.
+
+Variables:
+- Independent variable: The length of the wire (independent variable) will be altered by using wires of different lengths.
+- Dependent variable: The electrical resistance of the wire (dependent variable) will be measured using a multimeter.
+- Controlled variables: The thickness and material of the wire, the temperature of the wire, the voltage applied, and the current flowing through the wire will be kept constant to ensure a fair test.
+
+Materials and Equipment:
+- Wires of different lengths
+- Multimeter
+- Power supply
+- Crocodile clips
+
+Method:
+1. Collect all the materials and set up the circuit with the power supply, wire, and multimeter.
+2. Measure the initial length of the wire using a ruler.
+3. Connect one end of the wire to the positive terminal of the power supply and the other end to the multimeter.
+4. Set the power supply to a constant voltage and measure the current flowing through the wire using the multimeter.
+5. Record the voltage and current values in a data table.
+6. Repeat steps 2-5 for wires of different lengths, keeping the voltage constant.
+7. Calculate the electrical resistance using Ohm's law (R = V/I).
+8. Plot a graph with the wire length on the x-axis and the electrical resistance on the y-axis.
+
+Results and Data Analysis:
+The data collected from the experiment will be recorded in a table and presented graphically. The graph will show the relationship between the length of the wire and its electrical resistance. The relationship will be analyzed and compared to the hypothesis. Any anomalous results will be identified and discussed in the conclusion.
+
+Conclusion:
+Based on the data and analysis, it can be concluded that there is a direct relationship between the length of a wire and its electrical resistance. As the length of the wire increases, the electrical resistance also increases. This is consistent with the hypothesis, which stated that a longer wire would offer more obstacles for the electrons to flow through, resulting in increased resistance. The results of this investigation support the scientific explanation of electrical resistance.
+
+Improvements and Extensions:
+Further investigations could be conducted to explore the effect of other factors on electrical resistance, such as wire thickness or temperature. Additionally, the experiment could be repeated using different materials to determine if different substances exhibit the same relationship between length and resistance.

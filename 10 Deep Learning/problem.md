@@ -6,4 +6,4 @@ You can also choose to use a different type of model altogether, like Dall-e, a 
 
 https://platform.openai.com/docs/models/
 
-Please post the project you decide to create in the video(link) comments.
+Please post the project you decide to create in the [video](https://youtu.be/szNnPh1sruY) comments.

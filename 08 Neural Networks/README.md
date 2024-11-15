@@ -1,4 +1,4 @@
-In this lesson, we will look at one of the most important architectures, neural networks. They are made up of interconnected nodes that resemble the structure of the human mind.
+In this lesson, we will look at one of the most important architectures: neural networks. They are made up of interconnected nodes that loosely resemble the structure of the human mind.
 
 Here is a visualisation of a simple neural network.
 

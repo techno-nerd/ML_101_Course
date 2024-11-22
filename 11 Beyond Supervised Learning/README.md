@@ -20,6 +20,5 @@ Using these "embeddings", we can predict which movies the user would rate highly
 
 #### Generative AI (GANs)
 
-To learn more about all these architectures, check out this lesson's video:
+To learn more about all these architectures, check out this lesson's [video](https://youtu.be/Av6k8JeifQw)
 
-https://youtu.be/Av6k8JeifQw

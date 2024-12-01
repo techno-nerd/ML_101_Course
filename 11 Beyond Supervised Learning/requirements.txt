@@ -1,0 +1,10 @@
+numpy==2.0.2
+openai==1.55.1
+pandas==2.2.3
+pillow==10.4.0
+python-dotenv==1.0.1
+scikit-learn==1.5.2
+streamlit==1.40.2
+sympy==1.12
+tensorflow==2.18.0
+vertexai==1.71.1

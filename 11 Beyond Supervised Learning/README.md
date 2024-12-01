@@ -1,4 +1,4 @@
-In this lesson, we will touch upon models and concepts beyond Supervised Learning.
+The space beyond supervised learning is vast, as you can see by the topics listed below. We will touch on image generation models in the hands-on code examples for this lesson. Feel free to explore any of the other topics below!
 
 #### Unsupervised Learning
 

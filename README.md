@@ -77,9 +77,14 @@ We will be using Python and Jupyter Notebooks throughout the course, so it would
 - Neural Networks
 - MNIST Hands-on
 
-### Lesson 10: Beyond Basics
+### Lesson 10: Deep Learning
 - Discussion about reinforcement learning
-- Using generative models
+- Using generative models (LLMs)
+
+### Lesson 11: Beyond Supervised Learning
+- Explore clustering, recommender systems and image generation models
+- Work with Diffusion models and GANs
+
 
 ## Getting Started
 
